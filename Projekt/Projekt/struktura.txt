@@ -1,0 +1,5 @@
+0 wzrost>190.0 1 koszykowka % korzeń
+1 wyskok<50.0 koszykowka 2
+2 bieg<5.0 3 bieganie
+3 sila>20.0 4 zapasy
+4 wiedza<150.0 szachy lekkoatletyka

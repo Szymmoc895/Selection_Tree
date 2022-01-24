@@ -1,0 +1,16 @@
+﻿  funkcje.cpp
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(23,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(38,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(95,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(130,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\funkcje.cpp(145,22): warning C4018: '<': signed/unsigned mismatch
+  Projekt.cpp
+C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Projekt\Projekt.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Projekt.vcxproj -> C:\Users\Szym\source\repos\63af740b-gr21-repo\projekt\Projekt\Debug\Projekt.exe
